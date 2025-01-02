@@ -271,7 +271,7 @@ def generate_plots(model, X_train, X_test, y_train, y_test, model_name, metrics,
             st.pyplot(fig)
 
 # main UI stuff below
-st.title("Interactive Machine Learning Model Explorer")
+st.title("Chun's Interactive Machine Learning Model Explorer")
 
 # quick lookup for what each dataset is good for
 DATASET_TYPES = {
