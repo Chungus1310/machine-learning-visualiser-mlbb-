@@ -65,11 +65,11 @@ streamlit run machine_learning.py
 
 ## 🔧 Requirements
 Check out requirements.txt for the full list, but here's what you need:
-- streamlit==1.28.0
-- pandas==2.0.3
-- scikit-learn==1.3.0
-- matplotlib==3.7.2
-- seaborn==0.12.2
+- streamlit
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
 - numpy
 - xgboost
 
